@@ -1,2 +1,2 @@
 # elo320-act2.1
-Intro a C
+Uso de tipos básicos
