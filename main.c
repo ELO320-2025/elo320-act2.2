@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-
+// Modifica este código para nuevos datos
 // Selecciona 4 tipos de datos diferentes y agrégalos al programa para que solicite al usuario ingresar
 // información relevante utilizando esos tipos. Luego, muestra los datos ingresados en la consola.
 int main() {
